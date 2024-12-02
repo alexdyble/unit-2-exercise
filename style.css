@@ -1,0 +1,73 @@
+body{
+    background:rgb(0, 0, 0)
+}
+p {
+    color:rgb(255, 255, 255)
+    font: size 100px;
+    font-family:Arial;
+}
+
+img {
+    width:250px;
+    height:auto;
+}
+
+.dyble {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
+
+.flips1 {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
+
+.waveform {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
+
+.airpods {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
+
+.airpodsopen {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
+
+.joy {
+    width:500px;
+    height:auto;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,
+    -50%);
+}
